@@ -1,15 +1,15 @@
-# 🧠 LLM-Enhanced Particle Swarm Optimization (PSO)
+# LLM-Enhanced Particle Swarm Optimization (PSO)
 
 This project combines the exploration power of Particle Swarm Optimization (PSO) with the reasoning capabilities of Large Language Models (LLMs) to create a hybrid optimization algorithm that outperforms traditional PSO in both speed and efficiency.
 
-### 🔍 Key Features
+### Key Features
 - 📉 ** Faster Convergence**  
 - 🔁 ** Fewer Iterations Required**  
 - ⚙️ ** LLM-Guided Directional Updates**  
 
 ---
 
-## 🧪 How It Works
+## How It Works
 
 Each iteration of the PSO algorithm incorporates feedback from an LLM:
 1. **Swarm Initialization**  
@@ -19,7 +19,7 @@ Each iteration of the PSO algorithm incorporates feedback from an LLM:
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Python**
 - **Gemini / LLaMA**
