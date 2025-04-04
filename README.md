@@ -3,9 +3,9 @@
 This project combines the exploration power of Particle Swarm Optimization (PSO) with the reasoning capabilities of Large Language Models (LLMs) to create a hybrid optimization algorithm that outperforms traditional PSO in both speed and efficiency.
 
 ### Key Features
-- 📉 ** Faster Convergence**  
-- 🔁 ** Fewer Iterations Required**  
-- ⚙️ ** LLM-Guided Directional Updates**  
+- 📉 **Faster Convergence**  
+- 🔁 **Fewer Iterations Required**  
+- ⚙️ **LLM-Guided Directional Updates**  
 
 ---
 
